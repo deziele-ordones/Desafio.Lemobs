@@ -26,7 +26,7 @@ lst = cursor.fetchall()
 
 
 # Opção para ler dados de arquivo CSV
-#Gáfico Pizza
+#Gráfico Pizza
 
 x = pd.read_csv(r"C:\Users\Mario\Desktop\view_categoria.csv")
 plt.pie(x["id"],labels=x["descricao"],autopct="%1.0f%%")

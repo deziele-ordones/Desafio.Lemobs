@@ -1,0 +1,28 @@
+﻿Número de registros;Categoria Id;Descricao;Id;Qtd;Status;Valor
+1;1;Coca-Cola;1;20;1;4,5
+1;1;Água;2;50;1;3,5
+1;1;Suco;3;30;1;2,5
+1;1;Cerveja;4;50;1;7,5
+1;1;Vinho;5;30;1;15,5
+1;2;Arroz;6;20;1;4,5
+1;2;Macarrão;7;10;1;3,5
+1;2;Feijão;8;15;1;5,5
+1;2;Óleo;9;30;1;4,5
+1;4;Chocolate;10;50;1;5
+1;4;Bolo;11;30;1;15
+1;4;Pudim;12;15;1;10
+1;4;Biscoito;13;25;1;3,2
+1;6;Sabão em pó;14;30;1;4
+1;6;Desinfetante;15;30;1;4,5
+1;6;Detergente;16;15;1;3,5
+1;6;Cloro;17;35;1;2,5
+1;6;Sãbão;18;25;1;3,5
+1;3;Desodorante;19;40;1;9
+1;3;Creme Corporal;20;20;1;12
+1;3;Shampoo;21;20;1;15
+1;12;Frango;22;50;1;9
+1;12;Fígado;23;30;1;12
+1;12;Picanha;24;30;1;30
+1;7;Cotonete;25;50;1;2,5
+1;7;Sabonete;26;100;1;2,5
+1;7;Algodão;27;100;1;4,5
